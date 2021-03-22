@@ -56,7 +56,7 @@ function hitung_kos($kata1){
     </table>
   <?php endif ?>
   <?php if ($_POST && isset($_POST['kata'])): ?>
-    <hr
+    <hr>
  
     <table border="1">
       <?php foreach (hitung_kos($_POST['kata']) as $huruf1 => $jumlah1): ?>
