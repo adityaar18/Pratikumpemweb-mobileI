@@ -1,4 +1,3 @@
-#rama
 <?php
 function hitung_vocal($kata){
   $arr = str_split($kata);
