@@ -1,5 +1,5 @@
 <?php
-$family=["marisa kristina","daniel fernandez roha","xavier hernandez","messi","yan valery","paulo escobar"];
+$family=["Aditya Ananda Rama","Muhammad Zihan","Ella Mariani","Venicia Putri"];
 
 foreach ($family as $nama) {
   echo "<br>Jumlah kata dari nama "."$nama"." : ".str_word_count($nama)."<br>";
