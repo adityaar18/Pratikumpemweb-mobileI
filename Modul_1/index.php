@@ -14,24 +14,24 @@ foreach ($family as $nama) {
   echo "<br>Jumlah kebalikan dari nama "."$nama"." : ".strrev($nama)."<br>";
 }
 
-function vocal_konstanta($word){
+function vocal_kosonan($word){
   $word_len = strlen($word) - 1;
   $vocal_words = array("a","e","i","o","u");
   
   $vocal = 0;
-  $konstantan = 0;
+  $kosonan = 0;
 
   for($i = 0; $i <= $word_len; $i++){
       if(in_array($word[$i], $vocal_words)){
           $vocal++;
       }else{
-          $konstantan++;
+          $kosonan++;
       }
   }   
   echo "<br>jumlah huruf vocal $word : ".$vocal."<br>";
-  echo "<br>jumlah huruf konsonant $word : ".$konstantan."<br>";
+  echo "<br>jumlah huruf kososonan $word : ".$kosonan."<br>";
 }
 foreach($family as $data){
-	vocal_konstanta($data);
+	vocal_kosonan($data);
 }
 ?>
