@@ -61,11 +61,9 @@ if( $x == false ){
 </form>
 <?php
 echo $berhasil;
-if( $x == false ){
 echo "Username : ".$username_h;
 echo "<br>";
 echo "Password : ".$password_h;
-}
 ?>
 </body>
 </html>
