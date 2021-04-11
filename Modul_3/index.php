@@ -40,7 +40,7 @@ if (isset($_GET["delete1"])) {
     <form action="insert.php">
         <button>INSERT</button>
     </form>
-    <table border="1">
+    <table border="1" cellpadding="10">
         <tr>
             <td>idpegawai</td>
             <td>jeniskelamin</td>
@@ -73,7 +73,7 @@ if (isset($_GET["delete1"])) {
     <form action="insertdept.php">
         <button>INSERT</button>
     </form>
-    <table border="1">
+    <table border="1" cellpadding="10">
         <tr>
             <td>iddept</td>
             <td>namadept</td>

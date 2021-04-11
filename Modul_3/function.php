@@ -67,7 +67,4 @@ function update1($data2){
     mysqli_query($conn, "UPDATE departemen SET namadep = '$namadep', lokasi = '$lokasi' WHERE iddept = '$iddept'");
     return mysqli_affected_rows($conn);
 }
-
-
-
 ?>
