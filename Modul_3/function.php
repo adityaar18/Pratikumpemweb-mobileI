@@ -51,11 +51,13 @@ function delete1($data2){
 
 function update($data){
     global $conn;
+    $idpegawaibaru = $_POST["idpegawaibaru"];
     $idpegawai = $_POST["idpegawai"];
     $namapegawai = $_POST["namapegawai"];
     $alamat = $_POST["alamat"];
     $iddept = $_POST["iddept"];
     mysqli_query($conn, "UPDATE pegawai SET namapegawai = '$namapegawai', alamat = '$alamat', iddept='$iddept' WHERE idpegawai = '$idpegawai'");
+    mysqli_query($conn, "UPDATE pegawai set idpegawai = '$idpegawaibaru' where idpegawai = '$idpegawai'");
     return mysqli_affected_rows($conn);
 }
 

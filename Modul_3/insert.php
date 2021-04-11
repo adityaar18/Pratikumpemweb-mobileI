@@ -27,7 +27,6 @@ if (isset($_POST["insert"])) {
     <a href="index.php">home</a>
     <form action="" method="POST">
         <ul>
-           
             <li>
                 <label for="namapegawai">namapegawai</label>
                 <input type="text" name="namapegawai" id="namapegawai">

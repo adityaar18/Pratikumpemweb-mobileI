@@ -42,8 +42,8 @@ if (isset($_GET["delete1"])) {
     </form>
     <table border="1" cellpadding="10">
         <tr>
-            <td>idpegawai</td>
-            <td>jeniskelamin</td>
+            <td>id pegawai</td>
+            <td>nama pegawai</td>
             <td>alamat</td>
             <td>iddept</td>
             <td>aksi</td>

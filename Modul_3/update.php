@@ -35,7 +35,11 @@ if (isset($_POST["ubah"])) {
         ?>
             <ul>
                 <li>
-                    <label for="idpegawai">idpegawai</label>
+                    <label for="idpegawaibaru">idpegawaibaru</label>
+                    <input type="text" name="idpegawaibaru" id="idpegawaibaru" value=<?php echo $d["idpegawai"]; ?>>
+                </li>
+                <li>
+                    <label for="idpegawai">idpegawailama</label>
                     <input type="text" name="idpegawai" id="idpegawai" value=<?php echo $d["idpegawai"]; ?>>
                 </li>
                 <li>
