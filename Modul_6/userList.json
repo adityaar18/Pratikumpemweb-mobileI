@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "Aditya Ananda Ramadhani",
+        "address" : "Palangka Raya",
+        "image" : "https://scontent.fbdj4-1.fna.fbcdn.net/v/t1.6435-0/cp0/e15/q65/s600x600/60201072_2336515923246631_3937664048908206080_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&efg=eyJpIjoidCJ9&_nc_eui2=AeGm9EQD28SohvZ_hQhNZPUL-qr4gJQExEH6qviAlATEQYe_Hzx4sVkhnRv9p6YM4TZrBt5CYix3lih5VhUqrDXq&_nc_ohc=TQYG2raVzEIAX-1uIB4&_nc_ht=scontent.fbdj4-1.fna&tp=9&oh=7722c9e98ad07c231bae89a973f1f307&oe=60C6ED4B"
+    },
+
+    {
+        "name" : "Danis",
+        "address" : "Belanda",
+        "image" : "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+
+    {
+        "name" : "Rizky",
+        "address" : "Amerika",
+        "image" : "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+        "name" : "Nessa",
+        "address" : "Uni Emirates Arab",
+        "image" : "https://randomuser.me/api/portraits/women/34.jpg"
+    },
+    {
+        "name" : "Noval",
+        "address" : "Malaysia",
+        "image" : "https://randomuser.me/api/portraits/men/11.jpg"
+    }
+]
