@@ -109,14 +109,5 @@ berikut ini adalah link dari github pada saat mengerjakan project : https://gith
 ## Home
 ![Screenshot (64)](https://user-images.githubusercontent.com/60376933/119393029-ade14680-bcfa-11eb-8cd9-db79d3beee90.png)
 
-## About
-![image](https://user-images.githubusercontent.com/60376933/119492620-7bcaf580-bd89-11eb-89a9-f412e8fed72f.png)
-
-## Menu
-![image](https://user-images.githubusercontent.com/60376933/119492671-8a191180-bd89-11eb-95b0-96060673f659.png)
-
-## Contact Us
-![image](https://user-images.githubusercontent.com/60376933/119492737-9e5d0e80-bd89-11eb-9652-4e3d14da9013.png)
-
 
 
