@@ -75,10 +75,48 @@ Modul III, PHP MYSQL DATABASE. Dalam modul ini, peserta praktikum diberikan tuga
 ![image](https://user-images.githubusercontent.com/60376933/119396463-103c4600-bcff-11eb-8114-56df9dcd8d3f.png)
 
 # MODUL 4
+Modul IV, ASYNCHRONOUS JAVASCRIPT AND XML (AJAX). Dalam modul ini, peserta praktikum diberikan tugas untuk membuat program web dengan menggunakan PHP dan AJAX, yang mana AJAX ini berelasi dengan JavaScript. Pada modul ini, peserta praktikum mempelajari penggunaan PHP, AJAX, dan gabungan dari keduanya.
+## tampilan awal web
+![image](https://user-images.githubusercontent.com/60376933/119492060-d9127700-bd88-11eb-977d-89b698fde0f7.png)
+
+## tampilan jika data berhasil dimasukan
+![image](https://user-images.githubusercontent.com/60376933/119492163-f2b3be80-bd88-11eb-9f31-46e4fb0a8956.png)
+
+## tampilan data jika gagal dimasukan
+![image](https://user-images.githubusercontent.com/60376933/119492199-fcd5bd00-bd88-11eb-9b5e-bfae195410bd.png)
+
+## tampilan grafik dari web
+![image](https://user-images.githubusercontent.com/60376933/119492257-0bbc6f80-bd89-11eb-87d5-1d56ab3a2eeb.png)
+
+
 # MODUL 5
+Modul V, INSTALASI REACT NATIVE PADA WINDOWS. Dalam modul ini, peserta praktikum diberikan tugas untuk menginstalasi React Native pada interface ponsel Android yang dibantu dengan penggunaan Android Studio. Peserta praktikum mulai dikenalkan dengan pemrograman mobile berbasis Android pada pelaksanaan praktikum dari modul ini.
+## tampilan react native pada emulator
+![image](https://user-images.githubusercontent.com/60376933/119492381-35759680-bd89-11eb-853a-154dd5f2b564.png)
+
 # MODUL 6
+Modul VI, SEARCH BY FLAT LIST PADA REACT NATIVE. Dalam modul ini, peserta praktikum diberikan tugas untuk membuat search list yang berdasarkan dari components atau library yang terdapat di dalam React Native, tepatnya pada bagian Native Base.
+## output program pada emulator android
+![image](https://user-images.githubusercontent.com/60376933/119492478-52aa6500-bd89-11eb-8baf-74ebffcd793c.png)
+
+## output pada saat dilakukan search pada emulator android
+![image](https://user-images.githubusercontent.com/60376933/119492524-5fc75400-bd89-11eb-9d93-07098bb4a353.png)
+
 # RESPONSI
 melakukan pembuatan web profil sederhana secara berkelompok. Dalam tugas responsi kali ini, web profil yang kelompok kami buat ialah web profil dari usaha kuliner dan kopi yakni Vaksin Coffee
 Berikut ini adalah link dari web profil yang telah dibuat : https://vaksincoffee.000webhostapp.com/ \
 berikut ini adalah link dari github pada saat mengerjakan project : https://github.com/adityaar18/cafe
+## Home
 ![Screenshot (64)](https://user-images.githubusercontent.com/60376933/119393029-ade14680-bcfa-11eb-8cd9-db79d3beee90.png)
+
+## About
+![image](https://user-images.githubusercontent.com/60376933/119492620-7bcaf580-bd89-11eb-89a9-f412e8fed72f.png)
+
+## Menu
+![image](https://user-images.githubusercontent.com/60376933/119492671-8a191180-bd89-11eb-95b0-96060673f659.png)
+
+## Contact Us
+![image](https://user-images.githubusercontent.com/60376933/119492737-9e5d0e80-bd89-11eb-9652-4e3d14da9013.png)
+
+
+
